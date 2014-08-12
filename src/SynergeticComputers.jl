@@ -1,5 +1,7 @@
 module SynergeticComputers
 
-# package code goes here
+export SynergeticComputer
+export recognition, getpattern
+include("sc.jl")
 
 end # module
